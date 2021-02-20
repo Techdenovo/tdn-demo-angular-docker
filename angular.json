@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "tdn-demo-angular-docker"
+  "defaultProject": "tdn-demo-angular-docker",
+  "cli": {
+    "analytics": false
+  }
 }
